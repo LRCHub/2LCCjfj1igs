@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "21世紀宇宙の子",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-01T14:34:13.144317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "21世紀宇宙の子",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_21世紀宇宙の子_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "21世紀宇宙の子",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_21世紀宇宙の子_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "21世紀宇宙の子",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_21世紀宇宙の子_東京事変.txt"
+    }
+  ]
+}
